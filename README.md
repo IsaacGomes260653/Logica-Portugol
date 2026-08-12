@@ -56,3 +56,19 @@ Este repositório marca o ponto de partida da minha trajetória como desenvolved
 <div align="center">
   <sub>// onde tudo começou 🌱</sub>
 </div>
+
+---
+
+# 🧩 Programming Logic with Portugol (English)
+
+A historical repository of my first steps into **programming logic**, using **Portugol** (a Portuguese-based pseudocode language) as the base. These algorithms mark the very beginning of my journey. 🚀
+
+## 📚 What's in here
+
+Decision structures (`se`/`senão`/`escolha`), loops (`enquanto`/`para`/`repita`), functions and procedures, arrays and matrices, and classic logic algorithms.
+
+## 🗂 Status
+📌 **Archived** — no longer updated. Represents my foundation in programming logic before moving on to C, C++, and Python.
+
+## 👨‍💻 About
+Computer Science student at CEUB, Brasília. This repository marks the starting point of my journey as a developer.
